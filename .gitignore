@@ -1,0 +1,9 @@
+# Editor settings
+.vscode/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
